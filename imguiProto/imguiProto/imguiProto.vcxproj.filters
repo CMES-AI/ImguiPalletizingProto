@@ -31,7 +31,7 @@
     <ClCompile Include="..\..\backends\imgui_impl_glfw.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\backends\imgui_impl_opengl2.cpp">
+    <ClCompile Include="..\..\backends\imgui_impl_opengl3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -48,7 +48,10 @@
     <ClInclude Include="..\..\backends\imgui_impl_glfw.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\backends\imgui_impl_opengl2.h">
+    <ClInclude Include="..\..\backends\imgui_impl_opengl3.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\backends\imgui_impl_opengl3_loader.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
